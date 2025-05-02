@@ -425,3 +425,97 @@ CAF = Résultat net + Dotations - Reprises - Plus-values + Moins-values
 - Approfondir les calculs de CAF avec exercices ?  
 
 Cette structure met en lumière **les liens entre performance, trésorerie et décisions stratégiques**. 🚀
+
+
+
+-----
+-----
+-----
+
+### **Fiche de Révision : Analyse Financière (Bilan & Compte de Résultat)**  
+**Objectif** : Comprendre la santé financière d’une entreprise à travers ses cycles, soldes clés et création de richesse.  
+
+---
+
+## **I. Bilan Fonctionnel**  
+### **1. Pourquoi ?**  
+- **Limites du bilan comptable** : Statique, ignore les cycles et retraitements (crédit-bail, EENE).  
+- **Approche dynamique** : Segmente l’activité en **cycles** (court/long terme).  
+
+### **2. Structure**  
+- **Actif** : Valeurs brutes (amortissements au passif).  
+- **Passif** :  
+  - **Ressources stables** (capitaux propres + dettes long terme).  
+  - **Trésorerie passive** (concours bancaires).  
+- **Retraitements** :  
+  - **Crédit-bail** → Actif (immobilisations) + Passif (dettes).  
+  - **EENE** → Créances clients ↑ + Trésorerie passive ↑.  
+
+### **3. Soldes Clés**  
+| **Solde** | **Calcul** | **Interprétation** |  
+|-----------|------------|---------------------|  
+| **FRNG** | Ress. stables - Emplois stables | >0 : Ressource pour BFR. <0 : Déséquilibre. |  
+| **BFR** | Actifs circ. - Dettes circ. | >0 : Besoin de financement. <0 : Ressource (dettes > stocks/créances). |  
+| **Trésorerie Nette (TN)** | FRNG - BFR | >0 : Excédent. <0 : Découvert. |  
+
+**Équilibre fondamental** :  
+\[
+\boxed{FRNG - BFR = TN}
+\]
+
+---
+
+## **II. Compte de Résultat & SIG**  
+### **1. Soldes Intermédiaires de Gestion (SIG)**  
+#### **A. Création de Richesse**  
+| **Solde** | **Calcul** | **Utilité** |  
+|-----------|------------|-------------|  
+| **Marge Commerciale (MC)** | Ventes - Coût d’achat | Performance commerciale. |  
+| **Valeur Ajoutée (VA)** | MC + Prod. - Consommations | Richesse créée (répartie entre salariés, État, actionnaires). |  
+| **EBE** | VA + Subv. - Impôts - Salaires | Marge opérationnelle **hors financement**. |  
+
+#### **B. Répartition de la Richesse**  
+- **Résultat d’Exploitation (RE)** = EBE - Dotations.  
+- **Résultat Net (RN)** = RE ± Financier ± Exceptionnel - Impôts.  
+
+#### **Retraitements** :  
+- **Crédit-bail** : Redevances → Dotation (681) + Intérêts (661).  
+- **Intérim** : Charges externes (621) → Charges de personnel (64).  
+
+### **2. Capacité d’Autofinancement (CAF)**  
+- **Définition** : Trésorerie potentielle générée par l’activité.  
+- **Calcul** :  
+  - **Méthode soustractive** : EBE + Produits encaissables - Charges décaissables.  
+  - **Méthode additive** : RN + Dotations - Reprises ± Values.  
+- **Autofinancement** = CAF - Dividendes.  
+
+**Différences** :  
+- **CAF** vs **Résultat Net** : Exclut les calculs (dotations).  
+- **CAF** vs **Trésorerie** : Potentielle (inclut crédit) vs Réelle.  
+
+---
+
+## **III. Ratios Clés**  
+| **Ratio** | **Formule** | **Interprétation** |  
+|-----------|------------|---------------------|  
+| **Marge Commerciale** | MC / Ventes | Performance commerciale. |  
+| **EBE/CA** | EBE / Chiffre d’affaires | Efficacité opérationnelle. |  
+| **FRNG/CA** | FRNG / CA | Capacité à financer le BFR. |  
+
+---
+
+## **À Retenir**  
+✅ **Bilan fonctionnel** : FRNG, BFR, TN → Équilibre financier.  
+✅ **SIG** : Analyse la création (VA, EBE) et répartition (RN) de richesse.  
+✅ **CAF** : Flux de trésorerie pour investir/rembourser.  
+⚠️ **Pièges** :  
+- Crédit-bail → Retraiter pour une vision réelle.  
+- BFR négatif ≠ Toujours favorable (dépendance fournisseurs).  
+
+**Schéma Révision** :  
+1. **Bilan** : FRNG → BFR → TN.  
+2. **Compte de résultat** : MC → VA → EBE → RN → CAF.  
+3. **Ratios** : Marge, EBE/CA, FRNG/CA.  
+
+**Format PDF imprimable disponible sur demande !** 📄✨
+
