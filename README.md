@@ -115,7 +115,7 @@ Type de compte	|Débit (→ gauche) |	Crédit (→ droite)
 | Produit (ex : Ventes, Intérêts) |	➖ Diminution de produit	| ➕ Augmentation de produit |
 
 
---> Débit et Crédit renseignent uste sur le mouvement. C'est le sens du mouvement (gain ou perte) qui dépend de la nature du compte.
+--> Débit et Crédit renseignent juste sur le mouvement. C'est le sens du mouvement (gain ou perte) qui dépend de la nature du compte.
 
 ---
 
