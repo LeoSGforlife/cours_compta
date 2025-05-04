@@ -217,7 +217,7 @@ Attention à cette erreur ! Dans le langage courant, un crédit signifie une per
 | **Actif** | **Passif** |  
 |----------------------|----------------------|  
 | Actif immobilisé | Capitaux propres |  
-| Actif circulant : \n Stocks \n Créances clients \Disponibilités | Dettes financières, fournisseurs, autres dettes |  
+| <u>Actif circulant</u> : Stocks, Créances clients, Disponibilités | Dettes financières, fournisseurs, autres dettes |  
 
 ---
 
