@@ -110,8 +110,8 @@ Voici ce que le correcteur attend de toi, organisé par thème :
 Type de compte	|Débit (→ gauche) |	Crédit (→ droite)
 |--------------|-------------|------------------|
 | Actif (ex : Banque, Stocks) |	➕ Augmentation de l’actif |	➖ Diminution de l’actif |
-| Passif (ex : Dettes, Capital) |	➖ Diminution du passif	➕ | Augmentation du passif |
-| Charge (ex : Salaires, Loyer) |	➕ Augmentation de charge	➖ | Diminution de charge |
+| Passif (ex : Dettes, Capital) |	➖ Diminution du passif	 | ➕ Augmentation du passif |
+| Charge (ex : Salaires, Loyer) |	➕ Augmentation de charge	 | ➖ Diminution de charge |
 | Produit (ex : Ventes, Intérêts) |	➖ Diminution de produit	| ➕ Augmentation de produit |
 
 
