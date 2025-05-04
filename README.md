@@ -313,7 +313,7 @@ Une trésorerie passive élevée signale une forte tension sur la trésorerie (m
 -----
 
 
-# Chapitre 3 : Analyse Fonctionnelle du Compte de Résultat**  
+# Chapitre 3 : Analyse Fonctionnelle du Compte de Résultat  
 **Objectif** : Comprendre la formation du résultat, analyser la création de richesse (SIG), et évaluer la capacité d'autofinancement (CAF).  
 
 ---
@@ -332,9 +332,11 @@ Une trésorerie passive élevée signale une forte tension sur la trésorerie (m
 #### **A. Soldes de Création de Richesse**  
 | **Solde** | **Calcul** | **Interprétation** |  
 |-----------|------------|---------------------|  
-| **Marge Commerciale (MC)** | Ventes - Coût d’achat des marchandises vendues | Performance commerciale (entreprises de négoce). |  
-| **Production de l’Exercice (PE)** | Production vendue + stockée + immobilisée | Activité industrielle/prestations. Peu utilisé (hétérogène). |  
+| **Marge Commerciale (MC)** | Ventes - Coût d’achat des marchandises vendues | Performance commerciale, capacité à proposer un prix supérieur au cout d'achat, pertinent pour commerçant. |  
+| **Production de l’Exercice (PE)** | Production vendue + stockée + immobilisée | Activité réelle de production industrielle/prestations; même si non vendus ou utilisés par l'entreprise. Peu utilisé (hétérogène). |  
 | **Valeur Ajoutée (VA)** | MC + PE - Consommations intermédiaires | Richesse créée par l’entreprise. Répartie entre salariés, État, investisseurs. |  
+
+Bonus : Le **Chiffre d'affaire** a pour formule (non garantie !!!) CA (industrie) = Production Vendue = PE - stockée - immobilisée ; CA (commerce) = MC + coût d'achat des marchandises vendues. 
 
 #### **B. Soldes de Répartition de la Richesse**  
 | **Solde** | **Calcul** | **Interprétation** |  
@@ -346,7 +348,13 @@ Une trésorerie passive élevée signale une forte tension sur la trésorerie (m
 
 #### **C. Soldes Particuliers**  
 - **Résultat Exceptionnel** : Cessions d’actifs, pénalités. **Attention** : Peut masquer des difficultés (ex. : vente d’actifs pour trésorerie).  
-- **Plus/Moins-values** : Différence entre prix de cession et valeur comptable des actifs.  
+- **Plus/Moins-values** : Différence entre prix de cession et valeur comptable des actifs.
+
+### D. Illustrations
+
+![image](https://github.com/user-attachments/assets/b87e6739-667a-47e3-b412-bf4bf2c5ffb6)
+![image](https://github.com/user-attachments/assets/2d7f7ccb-4992-447c-bc40-ae9c7dd6b3fb)
+
 
 ### **3. Retraitements Obligatoires**  
 - **Crédit-bail** :  
@@ -354,30 +362,61 @@ Une trésorerie passive élevée signale une forte tension sur la trésorerie (m
     - **Dotation aux amortissements** (681).  
     - **Charges d’intérêts** (661).  
   - **Impact** : Augmente l’EBE (car les dotations sont non décaissables).  
-- **Personnel intérimaire** : Reclassé des **charges externes** (621) vers **charges de personnel** (64) pour une analyse homogène.  
+- **Personnel intérimaire** : Reclassé des **charges externes** (621) vers **charges de personnel** (64) pour une analyse homogène.
 
-**Exemple concret (Crédit-bail)** :  
-- Redevance annuelle : 9 000 €.  
-- Amortissement fictif : 8 000 € (48 000 € / 6 ans).  
-- Intérêts fictifs : 1 000 € (9 000 - 8 000).  
-→ **EBE augmenté de 8 000 €** (car dotations exclues des charges décaissables).  
+Explication : 
+- Certaines entre^prises louent leurs équipements via des contrats de crédit-bail (comptabilité en charge externe), cela leur permet d'éviter d'immobiliser des capitaux dans des investissements. Problème : Les redevances crédit-bail apparaissent comme de simples charges externes, ce qui diminue artificiellement l'EBE. Or économiquement, l'entreprise possède et utilise durablement ces biens. Solution : retraitement --> on considère que l'entreprise a acheté le bien. La redevance de crédit-bail est remplacée par 1) la dotation aux amortissements (ce que l'entreprise aurait compté si elle avait acheté le bien), 2) Charge et intérêt (différence entre la redevance totale et l'amortissement reconstitué).
+- De même, les interimaires sont comptabilisés comme des charges externes et non des charges de personnel. LE retraitement reclasse les charges liées au personnel intérimaire de "charges externes / consommation intermédiaire" vers "charges de personnel".
+--> Les SIG permettent de neutraliser les effets liés au choix comptables ou juridiques.
+
+
+### Exemple de retraitement : Crédit-bail & Intérim
+
+#### Contexte
+- **Bien loué** : Camion
+- **Valeur neuve** : 48 000 € HT
+- **Durée du contrat** : 6 ans (à partir du 01/06/N-2)
+- **Redevance annuelle** : 9 000 € HT
+- **Mode d'amortissement** : Linéaire
+- **Facture intérim (ADECCO)** : 7 500 € (ouvriers mis à disposition au second semestre)
+
+#### Retraitements à faire au 31/12/N
+
+#### 1. Crédit-bail
+
+| Élément                  | Montant                     |
+| ------------------------ | --------------------------- |
+| Redevance payée          | 9 000 €                     |
+| Amortissement fictif     | 48 000 € / 6 ans = 8 000 €  |
+| Charge d’intérêt fictive | 9 000 € - 8 000 € = 1 000 € |
+
+**👉 À faire** :
+
+- Retirer 9 000 € des charges externes (compte 612),
+- Ajouter 8 000 € aux **dotations aux amortissements (681)**, → **EBE augmenté de 8 000 €** (car dotations exclues des charges décaissables).
+- Ajouter 1 000 € aux **charges d’intérêts (661)**.
+
+#### 2. Personnel intérimaire
+
+**👉 À faire** :
+
+- Reclasser 7 500 € de **charges externes (621)** vers **charges de personnel (64)**.
+
 
 ---
 
 ## **II. La Capacité d’Autofinancement (CAF)**  
 ### **1. Définition et Rôle**  
-- **Flux de trésorerie potentiel** : Ressources générées par l’activité **encaissables/décaissables**.  
+- **Flux de trésorerie potentiel** : Ressources générée par les opérations des gestions de l'entreprise (exclue les opérations des cycle d'investissement ou de financement). Potentiel car inclue **encaissables/décaissables** --> paiment différé inclus. 
 - **Utilité** :  
   - **Financement interne** (investissements, remboursements).  
-  - **Indicateur clé pour les banques** (capacité à rembourser).  
+  - **Indicateur clé pour les banques** (capacité à rembourser).
+  - CAF < 0 : l'entreprise n'arrive pas à financer son activité d'exploitation.   
 
 ### **2. Calcul de la CAF**  
 #### **Méthode Soustractive (PCG)**  
 CAF = EBE + Produits encaissables - Charges décaissables
 - **Exclut** : Dotations, reprises, éléments exceptionnels.  
-
-#### **Méthode Additive**  
-CAF = Résultat net + Dotations - Reprises - Plus-values + Moins-values 
 
 ### **3. Différences Clés**  
 | **CAF** | **Résultat Net** | **Trésorerie** |  
@@ -386,9 +425,9 @@ CAF = Résultat net + Dotations - Reprises - Plus-values + Moins-values
 
 ### **4. Autofinancement**  
 - **Définition** : Autofinancement = CAF - Dividendes 
-- **Traduction au bilan** :  
-  - **Réserves** (bilan comptable).  
-  - **Ressources stables** (bilan fonctionnel).  
+- **Traduction au bilan** (=lien entre une donnée du compte de résultat --> flux, et sa trace dans le bilan --> stock :  
+  - Dans le bilance comptable, la CAF se situe dans les **Réserves**.  
+  - Dans le bilan fonctionnel, la CAF se situe dans les **Ressources stables** (car permet de financer durablement l'entreprise).  
 
 ---
 
