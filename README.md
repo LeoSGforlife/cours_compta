@@ -113,6 +113,8 @@ Type de compte	|Débit (→ gauche) |	Crédit (→ droite)
 | Passif (ex : Dettes, Capital) |	➖ Diminution du passif	➕ | Augmentation du passif |
 | Charge (ex : Salaires, Loyer) |	➕ Augmentation de charge	➖ | Diminution de charge |
 | Produit (ex : Ventes, Intérêts) |	➖ Diminution de produit	| ➕ Augmentation de produit |
+
+
 --> Débit et Crédit renseignent uste sur le mouvement. C'est le sens du mouvement (gain ou perte) qui dépend de la nature du compte.
 
 ---
