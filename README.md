@@ -213,6 +213,12 @@ Attention à cette erreur ! Dans le langage courant, un crédit signifie une per
 # Chapitre 2 : Analyse Fonctionnelle du Bilan  
 **Objectif** : Comprendre la santé financière de l’entreprise via une approche dynamique (cycles) et des soldes clés (FRNG, BFR, Trésorerie).  
 
+**Rappel sur le bilan comptable usuel** : 
+| **Actif** | **Passif** |  
+|----------------------|----------------------|  
+| Actif immobilisé | Capitaux propres |  
+| Actif circulant : \n Stocks \n Créances clients \Disponibilités | Dettes financières, fournisseurs, autres dettes |  
+
 ---
 
 ## **I. Pourquoi un Bilan Fonctionnel ?**  
@@ -221,7 +227,7 @@ Attention à cette erreur ! Dans le langage courant, un crédit signifie une per
 - **Approche juridique** : Ne montre pas les liens entre financements et emplois.  
 - **Problèmes de valorisation** :  
   - Sous-évaluation du patrimoine (ex. crédit-bail non intégré).  
-  - Absence de retraitements (EENE, crédit-bail).  
+  - Absence de retraitements (EENE, crédit-bail, amortissements).  
 
 ### **2. Objectifs du Bilan Fonctionnel**  
 - **Analyse dynamique** : Focus sur les **cycles** (court/long terme).  
@@ -238,17 +244,16 @@ Attention à cette erreur ! Dans le langage courant, un crédit signifie une per
 | **Décisions opérationnelles** (crédit clients, stocks). | **Décisions stratégiques** (investissements, financement). |  
 
 ### **2. Règles d’Élaboration**  
-- **Actif** : En valeurs brutes (amortissements transférés au passif).  
-- **Passif** :  
-  - Ressources stables = Capitaux propres + dettes long terme.  
-  - Trésorerie passive = Concours bancaires courants.  
-- **Retraitements obligatoires** :  
-  - **Crédit-bail** : Ajout des actifs en immobilisations et des engagements en dettes.  
-  - **EENE** : Créances clients augmentées, trésorerie passive ajustée.  
 
-**Exemple concret (Crédit-bail)** :  
-- Un bien en crédit-bail (40 000 €) est ajouté à l’actif (immobilisations) et au passif (dettes financières).  
-- **Pourquoi ?** : Refléter l’engagement économique réel (même sans propriété juridique).  
+Le bilan fonctionnel est supposé représenter la réalité économique. On utilise pour cela l'opération de retraitement (voir le qui consiste à ajuster les résultats pour refléter cette réalité économique. 3 phénomènes sont inclus dans les retraitements :
+- **Crédit-bail** : Même si juridiquement le bien n'appartient pas à l'entreprise, elle l'utilise comme si elle était propriétaire. On ajoute donc le bien à l'actif (immobilisation) et la dette future à payer au passif.
+- **Amortissements** : voir chapitre 1.
+- **Effets Escomptés Non échus (EENE)** : Créances clients augmentées (car le client n'a pas encore payé), **trésorerie passive** ajustée (car la banque a avancé l'argent).
+Ainsi dans le bilan fonctionnel, on considère à l'actif les sommes brutes avec les opérations de retraitement (VERIFIER). Au passif, on distingue deux concepts :
+- **Ressources stables** = capitaux propres + dette à long-terme --> fonds disponibles durablement. Les **capitaux propres** sont les capitaux sociaux (ressources appartenant aux associés / propriétaires de l'entreprise), les réserves (bénéfices non distribués), résultat de l'exercice --> source interne de financement à long terme. La **dette à long terme** regroupe les emprunts et  les obligations que l'entreprise doit rembourser au-delà de 1 an --> source externe de financement à long terme. 
+- **Trésorerie passive** = découverts bancaires ou **concours bancaires courants** --> Crédits accordés à très court terme (parfois 1 jour) pour faire faire au décalage de trésorerie.
+Une trésorerie passive élevée signale une forte tension sur la trésorerie (mauvais signe). 
+
 
 ---
 
