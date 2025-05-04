@@ -2,7 +2,6 @@
 
 **ATTENTION** : il manque quelques tableaux qui méritent d'être analysés pour leurs structures ! Il faudrait également mettre les résultats des TDs si ceux-ci montrent des éléments intéressants / inattendus par rapport aux cours. 
 
-Analyse du partiel 2023 : 
 ### **Analyse des attentes du correcteur**  
 
 Voici ce que le correcteur attend de toi, organisé par thème :  
@@ -209,7 +208,7 @@ Attention à cette erreur ! Dans le langage courant, un crédit signifie une per
 ------
 
 
-### **Structure Optimisée du Cours : Analyse Fonctionnelle du Bilan**  
+# Chapitre 2 : Analyse Fonctionnelle du Bilan  
 **Objectif** : Comprendre la santé financière de l’entreprise via une approche dynamique (cycles) et des soldes clés (FRNG, BFR, Trésorerie).  
 
 ---
@@ -253,20 +252,14 @@ Attention à cette erreur ! Dans le langage courant, un crédit signifie une per
 
 ## **III. Les Soldes Clés et Leurs Interpretations**  
 ### **1. Fonds de Roulement Net Global (FRNG)**  
-- **Calcul** :  
-  \[
-  FRNG = \text{Ressources stables} - \text{Emplois stables}
-  \]  
+- **Calcul** : FRNG = Ressources stables - Emplois stables
 - **Interprétation** :  
   - **FRNG > 0** : Ressource excédentaire pour financer le BFR.  
   - **FRNG < 0** : Risque de déséquilibre (emplois stables mal financés).  
 - **Rôle** : Couvrir les besoins du cycle court (BFR).  
 
 ### **2. Besoin en Fonds de Roulement (BFR)**  
-- **Définition** :  
-  \[
-  BFR = \text{Actifs circulants} - \text{Dettes circulantes}
-  \]  
+- **Définition** : BFR = Actifs circulants - Dettes circulantes
   - **BFRE** (Exploitation) : Stocks + créances clients - dettes fournisseurs.  
   - **BFRHE** (Hors exploitation) : Opérations non récurrentes.  
 
@@ -275,14 +268,7 @@ Attention à cette erreur ! Dans le langage courant, un crédit signifie une per
   - **BFR < 0** : Ressource (dettes > actifs circulants).  
 
 ### **3. Trésorerie Nette (TN)**  
-- **Calcul** :  
-  \[
-  TN = \text{FRNG} - \text{BFR} = \text{Trésorerie active} - \text{Trésorerie passive}
-  \]  
-- **Équilibre fondamental** :  
-  \[
-  \text{FRNG} - \text{BFR} = \text{TN}
-  \]  
+- **Calcul** : TN = FRNG - BFR = Trésorerie active - Trésorerie passive
   - **TN > 0** : Excédent de trésorerie.  
   - **TN < 0** : Découvert (risque de liquidité).  
 
@@ -290,16 +276,11 @@ Attention à cette erreur ! Dans le langage courant, un crédit signifie une per
 
 ## **IV. Ratios et Diagnostic Financier**  
 ### **1. Ratios de Structure**  
-- **Ratio de financement** :  
-  \[
-  \frac{\text{Capitaux permanents}}{\text{Actifs immobilisés}} \quad (\text>1 \text{ idéal})
-  \]  
+- **Ratio de financement** :  Capitaux permanents / Actifs immobilisés (>1 --> idéal)
   - **Signification** : Capacité à financer les investissements sans dette court terme.  
 
-- **Ratio de liquidité** :  
-  \[
-  \frac{\text{Actifs circulants}}{\text{Dettes court terme}} \quad (\text>1 \text{ souhaitable})
-  \]  
+- **Ratio de liquidité** : Actifs circulants / Dettes court terme}} (>1 --> idéal)
+  - **Signification** : Mesure de la capacité de l'entreprise à faire face à ses dettes à court term avec ses actifs rapidement mobilisables. 
 
 ### **2. Limites de l’Analyse**  
 - **Crédit-bail et EENE** : Requièrent des retraitements manuels.  
@@ -385,15 +366,11 @@ Cette structure te permet de voir **les liens entre les cycles, les soldes, et l
 
 ### **2. Calcul de la CAF**  
 #### **Méthode Soustractive (PCG)**  
-\[
 CAF = EBE + Produits encaissables - Charges décaissables
-\]  
 - **Exclut** : Dotations, reprises, éléments exceptionnels.  
 
 #### **Méthode Additive**  
-\[
-CAF = Résultat net + Dotations - Reprises - Plus-values + Moins-values
-\]  
+CAF = Résultat net + Dotations - Reprises - Plus-values + Moins-values 
 
 ### **3. Différences Clés**  
 | **CAF** | **Résultat Net** | **Trésorerie** |  
@@ -401,10 +378,7 @@ CAF = Résultat net + Dotations - Reprises - Plus-values + Moins-values
 | Flux **potentiels** (crédit compris). | Inclut produits/charges **calculés**. | Flux **réels** à une date donnée. |  
 
 ### **4. Autofinancement**  
-- **Définition** :  
-  \[
-  Autofinancement = CAF - Dividendes
-  \]  
+- **Définition** : Autofinancement = CAF - Dividendes 
 - **Traduction au bilan** :  
   - **Réserves** (bilan comptable).  
   - **Ressources stables** (bilan fonctionnel).  
@@ -413,14 +387,8 @@ CAF = Résultat net + Dotations - Reprises - Plus-values + Moins-values
 
 ## **III. Ratios d’Activité**  
 ### **1. Rentabilité**  
-- **Taux de marge commerciale** :  
-  \[
-  \frac{MC}{Ventes} \times 100
-  \]  
-- **Taux de VA** :  
-  \[
-  \frac{VA}{Chiffre d'affaires} \times 100
-  \]  
+- **Taux de marge commerciale** :  (Marge commerciale / Ventes) × 100 
+- **Taux de VA** : (Valeur ajoutée / Chiffre d'affaires) × 100 
 
 ### **2. Profitabilité**  
 - **EBE/CA** : Marge opérationnelle.  
