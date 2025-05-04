@@ -1,6 +1,6 @@
 # COURS COMPTABILITE - Concepts résumés
 
-**ATTENTION** : il manque quelques tableaux qui méritent d'être analysés pour leurs structures ! Il faudrait également mettre les résultats des TDs si ceux-ci montrent des éléments intéressants / inattendus par rapport aux cours. 
+ 
 
 ### **Analyse des attentes du correcteur**  
 
