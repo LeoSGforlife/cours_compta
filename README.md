@@ -44,10 +44,7 @@ Voici ce que le correcteur attend de toi, organisé par thème :
 ------
 
 
-# Chapitre 1 : Les mécanismes comptables - CONCEPTS
-### **Structure Intelligente et Organisée du Chapitre : "Les Mécanismes Comptables"**  
-
-Ce chapitre est fondamental pour comprendre la logique comptable. Voici une **structuration claire et logique** des concepts, avec des articulations explicites pour faciliter ton apprentissage.  
+# Chapitre 1 : Les mécanismes comptables
 
 ---
 
@@ -59,7 +56,12 @@ Ce chapitre est fondamental pour comprendre la logique comptable. Voici une **st
 - **Flux économiques** :  
   - **Flux réels** (biens/services).  
   - **Flux financiers** (mouvements monétaires).  
-  - **Opérations au comptant** (règlement immédiat) vs **à crédit** (décalage dans le temps).  
+  - **Opérations au comptant** (règlement immédiat) vs **à crédit** (décalage dans le temps).
+  - **Encaissement** = entrée d'argent = **Débit banque**
+  - **Décaissement** = sortie d'argent = crédit banque
+  - **Amortissement** = perte de valeur définitive d'une immobilisation (biens durables possédés par l'entreprise, à cause de l'usure ou de l'obsolescence d'un logiciel).
+  - **Dotation aux amortissements** = charge non décaissée enregistrée périodiquement en général.
+  - **Dépréciation** = perte temporaire de valeur (actif financier, ...).
 
 ### **2. Obligations Comptables (Code de Commerce)**  
 - **Enregistrement chronologique** des mouvements patrimoniaux.  
@@ -73,7 +75,7 @@ Ce chapitre est fondamental pour comprendre la logique comptable. Voici une **st
 1. **Principe de prudence** : Ne pas surestimer les gains, anticiper les pertes.  
 2. **Permanence des méthodes** : Cohérence dans les règles d’évaluation.  
 3. **Continuité d’exploitation** : L’entreprise ne va pas disparaître à court terme.  
-4. **Indépendance des exercices** : Chaque exercice est évalué séparément.  
+4. **Indépendance des exercices** : Chaque exercice est évalué séparément.
 
 ### **4. Les Pièces Justificatives**  
 - **Obligatoires** : Factures, relevés bancaires, chèques.  
@@ -83,10 +85,7 @@ Ce chapitre est fondamental pour comprendre la logique comptable. Voici une **st
 
 ## **II. La Logique des Flux et la Comptabilité en Partie Double**  
 ### **1. Nature des Flux**  
-- **Réels** (biens/services) vs **Monétaires** (argent).  
-- **Entrants** (emploi → **débit**) vs **Sortants** (ressource → **crédit**).  
-
-**Règles à retenir (PAR CŒUR)** :  
+- **Réels** (biens/services) vs **Monétaires** (argent).  Attention c'est parfois très subtil.   
 - **Flux entrant = Emploi = Débit** (ex. : achat de stock).  
 - **Flux sortant = Ressource = Crédit** (ex. : vente à un client).  
 
@@ -96,7 +95,26 @@ Ce chapitre est fondamental pour comprendre la logique comptable. Voici une **st
   - **Créditeur** (Crédit > Débit) → Inscrit au **Débit** pour équilibrer.  
 
 **Exemple concret** :  
-- Un compte **Client** avec 5000€ en débit et 2000€ en crédit a un solde **débiteur de 3000€** (à reporter au crédit pour équilibrer).  
+- Un compte **Client** avec 5000€ en débit et 2000€ en crédit a un solde **débiteur de 3000€** (à reporter au crédit pour équilibrer).
+
+### 3. Subtilités
+- **TVA et taxes** sont des dettes envers l'Etat : quand on vend, on collecte de la TVA, que l'on doit à l'Etat --> au crédit du compte Etat.
+-  Quand on dit qu'une dotation aux amortissements est non décaissée, cela signifie qu'on ne perd pas d'argent en temps réel --> c'est un ajustement comptable qui réduit les bénéfices mais qui ne change pas la trésorerie.
+-  La **dépréciation est enregistrée** seulement en cas de moins-value latente par **principe de prudence**.
+-  Les **dividendes** sont enregistrés comme des produits et se mettent au crédit lors du versement (débités au compte banque).
+-  **Emprunts et intérêt** : quand on reçoit notre emprunt, on débitte la banque (augmentation de l'actif). Les intérêts sont compris comme des charges et on débitte le compte intérêt.
+-  **Amendes** : enregistrées en tant que charges, comme toutes les dépenses non productives.
+-  Le **compte banque** est un compte d'actifs. C'est la trésorerie, elle augmente au débit et diminue au crédit. Une vente peut être enregistrée mais non encaissée : le compte client est débitté à la place du compte banque et on créditte le compte vente. C'est quand l'argent arrive que l'on crédite le compte client et on débite le compte banque. 
+
+
+📚📊 Crédit et débit : sens variable selon le type de compte
+Type de compte	|Débit (→ gauche) |	Crédit (→ droite)
+|--------------|-------------|------------------|
+| Actif (ex : Banque, Stocks) |	➕ Augmentation de l’actif |	➖ Diminution de l’actif |
+| Passif (ex : Dettes, Capital) |	➖ Diminution du passif	➕ | Augmentation du passif |
+| Charge (ex : Salaires, Loyer) |	➕ Augmentation de charge	➖ | Diminution de charge |
+| Produit (ex : Ventes, Intérêts) |	➖ Diminution de produit	| ➕ Augmentation de produit |
+--> Débit et Crédit renseignent uste sur le mouvement. C'est le sens du mouvement (gain ou perte) qui dépend de la nature du compte.
 
 ---
 
@@ -108,6 +126,10 @@ Ce chapitre est fondamental pour comprendre la logique comptable. Voici une **st
 | **Stocks** (marchandises) | **Dettes** (emprunts, fournisseurs) |  
 | **Créances clients** | |  
 | **Trésorerie** (banque, caisse) | |  
+
+**Principaux postes du bilan :**
+1. Actifs --> immobilisation (biens durables), disponibilités (banque, caisse), stocks (bien achetés ou produits).
+2. Passifs --> Capital social, fournisseurs, dettes fiscales et sociales. 
 
 **Pourquoi cette distinction ?**  
 - L’actif montre **ce que l’entreprise possède**.  
@@ -129,7 +151,7 @@ Ce chapitre est fondamental pour comprendre la logique comptable. Voici une **st
 ## **IV. Le Plan Comptable Général (PCG)**  
 ### **1. Organisation des Classes**  
 - **Classe 1 à 5** → **Bilan** (Actif/Passif).  
-- **Classe 6 et 7** → **Compte de résultat** (Charges/Produits).  
+- **Classe 6 et 7** → **Compte de résultat** (6 --> Charges / 7 --> Produits).  
 
 **Exemple de numérotation :**  
 - **Classe 2** : Immobilisations (actif).  
@@ -152,6 +174,7 @@ Ce chapitre est fondamental pour comprendre la logique comptable. Voici une **st
 ✅ **Structure du bilan** (actif/passif) et **compte de résultat** (charges/produits).  
 ✅ **PCG** : Classes 1-5 (bilan), 6-7 (compte de résultat).  
 ✅ **Balance comptable** = outil de vérification.  
+Attention à cette erreur ! Dans le langage courant, un crédit signifie une perte, mais en comptabilité : produit = recette = crédit. 
 
 
 ### **Ce que tu dois retenir de ces exemples**  
@@ -181,13 +204,6 @@ Ce chapitre est fondamental pour comprendre la logique comptable. Voici une **st
 - **Maîtriser la chronologie** des écritures pour les opérations à crédit.  
 - **Éviter les incohérences** : Par exemple, ne pas créditer "Banque" quand l’argent entre (c’est un emploi, donc débit).  
 
----  
-**Exercice pour t’entraîner** :  
-*"L’entreprise paie un fournisseur 5 000 € par virement après avoir reçu la marchandise."*  
-→ Identifie les flux et les comptes impactés (débit/crédit).  
-→ Compare avec l’exemple 1 (achat au comptant) : quelle est la différence ?  
-
-Si tu veux, je peux te donner la correction structurée comme ci-dessus.
 
 ------
 ------
