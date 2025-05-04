@@ -217,7 +217,7 @@ Attention à cette erreur ! Dans le langage courant, un crédit signifie une per
 | **Actif** | **Passif** |  
 |----------------------|----------------------|  
 | Actif immobilisé | Capitaux propres |  
-| <u>Actif circulant</u> : Stocks, Créances clients, Disponibilités | Dettes financières, fournisseurs, autres dettes |  
+| _Actif circulant_ : Stocks, Créances clients, Disponibilités | Dettes financières, fournisseurs, autres dettes |  
 
 ---
 
@@ -254,6 +254,11 @@ Ainsi dans le bilan fonctionnel, on considère à l'actif les sommes brutes avec
 - **Trésorerie passive** = découverts bancaires ou **concours bancaires courants** --> Crédits accordés à très court terme (parfois 1 jour) pour faire faire au décalage de trésorerie.
 Une trésorerie passive élevée signale une forte tension sur la trésorerie (mauvais signe). 
 
+### **3. Bilan fonctionnel condensé**
+| **Actif** | **Passif** |  
+|----------------------|----------------------|  
+| Emplois stables | Ressources stables |  
+| _Actif circulant_ : emplois circulants exploitations et hors exploitation, Trésorerie active | _Passif circulant_ : Dettes circulantes exploitation et hors exploitation, trésorerie passive |  
 
 ---
 
@@ -263,12 +268,13 @@ Une trésorerie passive élevée signale une forte tension sur la trésorerie (m
 - **Interprétation** :  
   - **FRNG > 0** : Ressource excédentaire pour financer le BFR.  
   - **FRNG < 0** : Risque de déséquilibre (emplois stables mal financés).  
-- **Rôle** : Couvrir les besoins du cycle court (BFR).  
+- **Rôle** : Couvrir les besoins du cycle court (BFR)   
 
 ### **2. Besoin en Fonds de Roulement (BFR)**  
 - **Définition** : BFR = Actifs circulants - Dettes circulantes
   - **BFRE** (Exploitation) : Stocks + créances clients - dettes fournisseurs.  
-  - **BFRHE** (Hors exploitation) : Opérations non récurrentes.  
+  - **BFRHE** (Hors exploitation) : Opérations non récurrentes.
+- **Rôle** : Il représente le besoin en fond de financement permanent est lié au cycle l’exploitation et est issu des décalages entre encaissements et décaissements. 
 
 - **Cas de figure** :  
   - **BFR > 0** : Besoin de financement (stocks/créances > dettes).  
@@ -286,11 +292,11 @@ Une trésorerie passive élevée signale une forte tension sur la trésorerie (m
 - **Ratio de financement** :  Capitaux permanents / Actifs immobilisés (>1 --> idéal)
   - **Signification** : Capacité à financer les investissements sans dette court terme.  
 
-- **Ratio de liquidité** : Actifs circulants / Dettes court terme}} (>1 --> idéal)
+- **Ratio de liquidité** : Actifs circulants / Dettes court terme (>1 --> idéal)
   - **Signification** : Mesure de la capacité de l'entreprise à faire face à ses dettes à court term avec ses actifs rapidement mobilisables. 
 
 ### **2. Limites de l’Analyse**  
-- **Crédit-bail et EENE** : Requièrent des retraitements manuels.  
+- **Crédit-bail et EENE** : Requièrent des retraitements manuels (faire les modifications de retraitement soi-même).  
 - **BFR négatif** : Peut cacher une dépendance aux fournisseurs.  
 
 ---
@@ -302,18 +308,12 @@ Une trésorerie passive élevée signale une forte tension sur la trésorerie (m
 ✅ **TN** : Résultat de l’équilibre FRNG - BFR.  
 ⚠️ **Vigilance** : Crédit-bail, EENE, et interprétation des soldes.  
 
-**Prochaines étapes** :  
-- Appliquer ces concepts sur un bilan réel avec exercices corrigés ?  
-- Approfondir les retraitements (crédit-bail, EENE) ?  
-
-Cette structure te permet de voir **les liens entre les cycles, les soldes, et leur impact sur la trésorerie**. 🚀
-
 
 -----
 -----
 
 
-### **Structure Optimisée du Cours : Analyse Fonctionnelle du Compte de Résultat**  
+# Chapitre 3 : Analyse Fonctionnelle du Compte de Résultat**  
 **Objectif** : Comprendre la formation du résultat, analyser la création de richesse (SIG), et évaluer la capacité d'autofinancement (CAF).  
 
 ---
