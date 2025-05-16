@@ -547,5 +547,135 @@ Cette structure met en lumière **les liens entre performance, trésorerie et d�
 2. **Compte de résultat** : MC → VA → EBE → RN → CAF.  
 3. **Ratios** : Marge, EBE/CA, FRNG/CA.  
 
-**Format PDF imprimable disponible sur demande !** 📄✨
+
+
+-----
+-----
+
+Voici une version restructurée, complétée, clarifiée et synthétisée du **Chapitre IV : Le tableau de financement du P.C.G**, en format **Markdown** avec **bullet points**, pour faciliter la lecture et la compréhension.
+
+---
+
+# 📘 Chapitre IV : Le tableau de financement du P.C.G
+
+## I. Le principe de l’analyse dynamique
+
+### 🔁 1. Distinction fondamentale entre **flux** et **stock**
+
+* **Stock** : valeur à un instant donné (photo figée de la situation)
+
+  * Ex. : le solde du compte *411 Clients* est de **85 000 €** → cela représente une créance à une date précise.
+* **Flux** : variation dans le temps entre deux dates (mouvement)
+
+  * Ex. : le 15 mars, l’entreprise obtient un emprunt :
+
+    * **Débit** du compte *512 Banque*
+    * **Crédit** du compte *164 Emprunts*
+* La **comptabilité enregistre des flux**, mais les **documents de synthèse** (bilan, compte de résultat) présentent des **stocks**.
+
+> 💡 **Le bilan comptable** est une **analyse statique** car il représente la situation patrimoniale à un moment donné. Il ne montre pas les évolutions.
+
+---
+
+### 📊 2. L’utilité d’un document d’analyse dynamique
+
+* Objectif : compléter les documents statiques (bilan, compte de résultat)
+* Deux principaux documents d’analyse dynamique :
+
+  * **Tableau de financement** (PCG)
+  * **Tableau des flux de trésorerie** (modèle OEC – Ordre des Experts-Comptables)
+* Ces documents :
+
+  * Permettent de comprendre les **variations** de la structure financière entre deux exercices.
+  * Mettent en évidence les **origines** (ressources) et **utilisations** (emplois) des fonds.
+
+---
+
+### ⚙️ 3. Le raisonnement dynamique
+
+#### a) La notion de flux de fonds
+
+* Ce sont des **flux économiques** qui, à court ou long terme, conduisent à une entrée ou sortie de **trésorerie**.
+* On exclut les opérations **sans impact de trésorerie** (ex. : dotations aux amortissements).
+
+#### b) Classification des flux : **emplois** vs **ressources**
+
+| Nature         | Définition                                                     | Effet sur la trésorerie |
+| -------------- | -------------------------------------------------------------- | ----------------------- |
+| **Emplois**    | Utilisations des ressources (investissements, remboursements…) | Négatif                 |
+| **Ressources** | Origines des fonds (emprunts, augmentations de capital…)       | Positif                 |
+
+> 🔄 **Un même poste** peut être **emploi ou ressource** selon l'évolution de son solde.
+
+---
+
+## II. Le tableau de financement du P.C.G
+
+### 🧾 1. Présentation du tableau de financement
+
+Le **tableau de financement** du Plan Comptable Général permet de :
+
+* Expliquer les **variations** du **fonds de roulement net global (FRNG)**
+* Mettre en relation **emplois et ressources** de l’entreprise
+
+#### a) Le tableau des **emplois et ressources**
+
+* Colonne de gauche : **Emplois** = utilisation des ressources (investissements, remboursements…)
+* Colonne de droite : **Ressources** = nouvelles ressources obtenues (emprunts, autofinancement…)
+
+#### b) Le tableau des **besoins et dégagements**
+
+* Reprend la **variation du FRNG**.
+* Objectif : montrer comment les **besoins d’exploitation** évoluent, et s’ils consomment ou génèrent des ressources.
+
+---
+
+### 🛠️ 2. Élaboration du tableau de financement
+
+#### a) Le tableau **emplois / ressources**
+
+* **Étape 1** : Reprendre les mouvements qui **ont un impact sur la structure financière**, entre deux bilans (N et N-1).
+* **Colonne de gauche** :
+
+  * Investissements (achats d'immobilisations)
+  * Remboursements d’emprunts
+  * Dividendes versés
+* **Colonne de droite** :
+
+  * Emprunts obtenus
+  * Augmentations de capital
+  * Résultat conservé (autofinancement)
+
+#### b) Le tableau **besoins / dégagements**
+
+* **Besoin** :
+
+  * Croissance du besoin en fonds de roulement (augmentation des stocks, créances clients…)
+  * C’est un **emploi de fonds**.
+* **Dégagement** :
+
+  * Baisse du BFR (réduction des stocks, allongement du crédit fournisseurs…)
+  * Cela **libère** de la trésorerie → c’est une **ressource**.
+
+---
+
+## 🧩 Synthèse : logique du tableau de financement
+
+| Étape | Ce que l’on analyse                | Résultat                                |
+| ----- | ---------------------------------- | --------------------------------------- |
+| 1     | Ressources - Emplois               | Variation du **FRNG**                   |
+| 2     | Analyse de la variation du **BFR** | Détermination du **flux de trésorerie** |
+| 3     | Interprétation du **flux net**     | Capacité ou difficulté de financement   |
+
+---
+
+## 🧠 Points-clés à retenir
+
+* Le **flux** est une **variation dans le temps**, le **stock** une **valeur à un instant donné**.
+* Le **tableau de financement** est une **analyse dynamique** : il éclaire les décisions de gestion.
+* Il distingue les **ressources** (origine des fonds) et les **emplois** (utilisation des fonds).
+* Il permet d’expliquer la **variation de trésorerie** via le **FRNG** et le **BFR**.
+
+---
+
 
