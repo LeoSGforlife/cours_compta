@@ -552,9 +552,7 @@ Cette structure met en lumière **les liens entre performance, trésorerie et d�
 -----
 -----
 
-Voici une version restructurée, complétée, clarifiée et synthétisée du **Chapitre IV : Le tableau de financement du P.C.G**, en format **Markdown** avec **bullet points**, pour faciliter la lecture et la compréhension.
 
----
 
 # 📘 Chapitre IV : Le tableau de financement du P.C.G
 
