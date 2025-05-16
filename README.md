@@ -1,6 +1,6 @@
 # COURS COMPTABILITE - Concepts résumés
 
- 
+ Voir la fiche pdf
 
 ### **Analyse des attentes du correcteur**  
 
